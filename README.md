@@ -1,4 +1,4 @@
-Last updated: 21 February 2020
+Last updated: 22 February 2020
 
 # Alaff
 Solutions to various homework questions or recommended exercises from [Advanced Linear Algebra: Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.ALA+1T2020/course/) taught in Winter 2020 at edX. 
